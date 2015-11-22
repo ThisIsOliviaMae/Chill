@@ -14,6 +14,7 @@ University Finder is a web application that helps parents and/or students to dec
 * AJAX
 * JSON
 * Java EE IDE
+
 ## Credits
 * Lam, Janica - back-end developer
 * Marasigan, Olivia - front-end developer
